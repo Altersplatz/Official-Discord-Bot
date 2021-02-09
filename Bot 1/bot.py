@@ -186,4 +186,4 @@ async def unban_error(ctx , error):
     if isinstance(error , commands.MissingRequiredArgument):
         await ctx.send('Please mention User_Name#### of a banned user!')
 
-client.run('ODA0MzQ5Nzg2MDM1MTkxODA4.YBLDHQ.VvvKXF8m9cQjWG4dV4gcdbEUjKc')
+client.run('ADD BOT TOKEN')
